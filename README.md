@@ -4,7 +4,7 @@
 
 I'm a Computer Science graduate with a passion for full-stack web development. I love working with modern technologies and I like to learn new thinks and acquire as much knowledge as possible.
 
-- 🔭 I’m currently working on Frontend Design 
+- 🔭 I’m currently working on Frontend 
 - 🌱 I’m currently learning MERN Stack 
 
 ## Contacts
